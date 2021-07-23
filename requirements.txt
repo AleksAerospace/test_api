@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+requests
+xmltodict
+urllib3
+requests
+bs4
