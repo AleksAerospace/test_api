@@ -6,4 +6,4 @@ requests
 xmltodict
 urllib3
 requests
-bs4
+
